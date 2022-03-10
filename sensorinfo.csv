@@ -1,0 +1,87 @@
+id,lat,lon,label,port label,port code,state
+8447930,41.523613,-70.67111,Woods Hole,Cape Cod,ca,MA
+8665530,32.780834,-79.923615,Charleston,Charleston Harbor,ch,SC
+8551910,39.5583,-75.5733,Reedy Point,Chesapeake Bay North,cn,DE
+8573364,39.213444,-76.24453,Tolchester Beach,Chesapeake Bay North,cn,MD
+8573927,39.5267,-75.81,Chesapeake City,Chesapeake Bay North,cn,MD
+8574680,39.26667,-76.57833,Baltimore,Chesapeake Bay North,cn,MD
+8575512,38.98328,-76.48155,Annapolis,Chesapeake Bay North,cn,MD
+8577330,38.317223,-76.450836,Solomons Island,Chesapeake Bay North,cn,MD
+8594900,38.8733,-77.0217,Washington D.C.,Chesapeake Bay North,cn,DC
+8635027,38.31975,-77.03661,Dahlgren,Chesapeake Bay North,cn,VA
+8635750,37.995388,-76.464615,Lewisetta,Chesapeake Bay North,cn,VA
+8632200,37.16519,-75.98844,Kiptopeke Beach,Chesapeake Bay South,cs,VA
+8637689,37.2265,-76.478806,Yorktown USCG Training Center,Chesapeake Bay South,cs,VA
+8639348,36.778305,-76.3017,Money Point,Chesapeake Bay South,cs,VA
+8775222,27.8461,-97.5207,Viola Turning Basin,Corpus Christi,cc,TX
+8775237,27.8397,-97.0725,Port Aransas,Corpus Christi,cc,TX
+8775241,27.8366,-97.0391,"Aransas, Aransas Pass",Corpus Christi,cc,TX
+8775296,27.8149,-97.3892,USS Lexington,Corpus Christi,cc,TX
+9063063,41.54086,-81.635475,Cleveland,Cuyahoga,cy,OH
+8536110,38.9683,-74.96,Cape May,Delaware River and Bay,db,NJ
+8537121,39.305,-75.375,Ship John Shoal,Delaware River and Bay,db,NJ
+8539094,40.0817,-74.8697,Burlington,Delaware River and Bay,db,NJ
+8540433,39.81167,-75.40945,Marcus Hook,Delaware River and Bay,db,PA
+8545240,39.9333,-75.1417,Philadelphia,Delaware River and Bay,db,PA
+8546252,39.9833,-75.075,Bridesburg,Delaware River and Bay,db,PA
+8548989,40.1367,-74.7517,Newbold,Delaware River and Bay,db,PA
+8551762,39.5817,-75.5883,Delaware City,Delaware River and Bay,db,DE
+8551910,39.5583,-75.5733,Reedy Point,Delaware River and Bay,db,DE
+8557380,38.7817,-75.12,Lewes,Delaware River and Bay,db,DE
+8770613,29.6817,-94.985,Morgans Point,Houston Galveston Bay,hg,TX
+8770777,29.726223,-95.26578,Manchester,Houston Galveston Bay,hg,TX
+8771013,29.48,-94.918304,Eagle Point,Houston Galveston Bay,hg,TX
+8771341,29.3573,-94.7248,Galveston Bay Entrance,Houston Galveston Bay,hg,TX
+8771450,29.31,-94.793304,Pier 21,Houston Galveston Bay,hg,TX
+9418767,40.7663,-124.2172,North Spit,Humboldt Bay,hb,CA
+8720218,30.398167,-81.42789,Mayport Bar Pilots Dock,Jacksonville,jx,FL
+8720219,30.3867,-81.5583,Dames Point,Jacksonville,jx,FL
+8720245,30.354084,-81.61175,Jacksonville University,Jacksonville,jx,FL
+8720030,30.671389,-81.465836,Fernandina Beach,Kings Bay,kb,FL
+8767816,30.223639,-93.221664,Lake Charles,Lake Charles,lc,LA
+8767961,30.1903,-93.3007,Bulk Terminal,Lake Charles,lc,LA
+8768094,29.768167,-93.34289,Calcasieu Pass,Lake Charles,lc,LA
+9410660,33.719944,-118.27286,Los Angeles,Los Angeles Long Beach,ll,CA
+9439040,46.20731,-123.7683,Astoria,Lower Columbia River,cr,OR
+9440422,46.10614,-122.95419,Longview,Lower Columbia River,cr,WA
+8760721,29.1783,-89.2583,Pilottown,Lower Mississippi River,lm,LA
+8760922,28.9322,-89.4075,"Pilots Station East, SW Pass",Lower Mississippi River,lm,LA
+8761955,29.932888,-90.135475,Carrollton,Lower Mississippi River,lm,LA
+8773701,28.445862,-96.39555,Port O'Connor,Matagorda Bay,mg,TX
+8773767,28.4269,-96.3301,Matagorda Bay Entrance Channel,Matagorda Bay,mg,TX
+8723214,25.7314,-80.1618,"Virginia Key, Biscayne Bay",Miami,mi,FL
+8736897,30.6483,-88.0583,Coast Guard Sector Mobile,Mobile Bay,mb,AL
+8737048,30.7083,-88.0433,Mobile State Docks,Mobile Bay,mb,AL
+8764044,29.6675,-91.23761,Berwick,Morgan City,mc,LA
+8764227,29.4496,-91.3381,"LAWMA, Amerada Pass",Morgan City,mc,LA
+8764314,29.3675,-91.3839,"Eugene Island, North of",Morgan City,mc,LA
+8447386,41.7043,-71.1641,Fall River,Narragansett Bay,nb,MA
+8452660,41.505,-71.3267,Newport,Narragansett Bay,nb,MA
+8454000,41.8071,-71.4012,Providence,Narragansett Bay,nb,MA
+8454049,41.5868,-71.411,Quonset Point,Narragansett Bay,nb,MA
+8465705,41.2833,-72.9083,New Haven,New Haven,nh,CT
+8461490,41.3614,-72.09,New London,New London,nl,CT
+8516945,40.810307,-73.765,Kings Point,New York New Jersey Harbor,ny,NY
+8518750,40.700554,-74.01417,The Battery,New York New Jersey Harbor,ny,NY
+8519483,40.636696,-74.14169,Bergen Point West Reach,New York New Jersey Harbor,ny,NY
+8531680,40.466946,-74.009445,Sandy Hook,New York New Jersey Harbor,ny,NJ
+8741533,30.367777,-88.56306,Pascagoula NOAA Lab,Pascagoula,ps,MS
+8722956,26.0817,-80.1167,South Port Everglades,Port Everglades,pe,FL
+9455760,60.683304,-151.398,Nikiski,Port of Anchorage,ak,AK
+9455920,61.2375,-149.8904,Anchorage,Port of Anchorage,ak,AK
+8419870,43.079723,-70.74111,Seavey Island,Portsmouth,pm,ME
+8770822,29.689388,-93.84192,"Texas Point, Sabine Pass",Sabine Neches,sn,TX
+9414290,37.806305,-122.46589,San Francisco,San Francisco Bay,sf,CA
+9414523,37.5067,-122.21,Redwood City,San Francisco Bay,sf,CA
+9414750,37.7717,-122.3,Alameda,San Francisco Bay,sf,CA
+9414863,37.923,-122.409584,Richmond,San Francisco Bay,sf,CA
+9415102,38.034637,-122.12519,Martinez-Amorco Pier,San Francisco Bay,sf,CA
+9415144,38.056,-122.0395,Port Chicago,San Francisco Bay,sf,CA
+8670870,32.0367,-80.9017,Fort Pulaski,Savannah,sv,SC
+9075099,45.9925,-83.8982,Detour Village,Soo Locks,sl,MI
+9076070,46.50111,-84.37261,Southwest Pier Upper,Soo Locks,sl,MI
+9446484,47.26667,-122.41333,Tacoma,Tacoma,ta,WA
+8726384,27.638332,-82.5625,Port Manatee,Tampa Bay,tb,FL
+8726520,27.76061,-82.62689,St. Petersburg,Tampa Bay,tb,FL
+8726607,27.857779,-82.55278,Old Port Tampa,Tampa Bay,tb,FL
+8726674,27.9231,-82.4214,East Bay,Tampa Bay,tb,FL
